@@ -1,4 +1,4 @@
-![](readme photo 1.png)
+![image](readme photo 1.png)
 # training-repo
 for training
 
